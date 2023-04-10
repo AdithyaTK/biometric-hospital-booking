@@ -1,0 +1,5 @@
+TrainingImage/
+TrainingImageLabel/
+.idea
+.vscode
+__pycache__/
